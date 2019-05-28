@@ -39,8 +39,10 @@ npm run test:unit
 - "vue-router": "^3.0.3",
 - "vuex": "^3.0.1"
 
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/ChrisMichaelPerezSantiago/vuex-store-starter/blob/master/LICENSE) file for details.
 
-### Customize configuration
+## Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
