@@ -38,7 +38,7 @@ npm run electron:serve
 
 ## Dependencies
 - "axios": "^0.18.0",
-- "core-js": "^2.6.5",
+- "core-js": "^3.1.3",
 - "lodash": "^4.17.11",
 - "vue": "^2.6.10",
 - "vue-router": "^3.0.3",
