@@ -37,12 +37,12 @@ npm run electron:serve
 ```
 
 ## Dependencies
-- "axios": "^0.18.0",
-- "core-js": "^3.1.3",
-- "lodash": "^4.17.11",
-- "vue": "^2.6.10",
-- "vue-router": "^3.0.3",
-- "vuex": "^3.0.1"
+- "axios"
+- "core-js"
+- "lodash"
+- "vue"
+- "vue-router"
+- "vuex"
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/ChrisMichaelPerezSantiago/vuex-store-starter/blob/master/LICENSE) file for details.
